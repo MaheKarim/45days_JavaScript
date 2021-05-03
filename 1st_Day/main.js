@@ -1,17 +1,19 @@
-console.log(1+1);
+//console.log(1+1);
 //const, let , var
-const productName = 'potato';
-const productPrice = 30;
-const productQuantity = 3;
-const productIsAvailable = 'true';
+// const productName = 'potato';
+// const productPrice = 30;
+// const productQuantity = 3;
+// const productIsAvailable = 'true';
+
+const productInfo = ['Potato', '30', '3', 'true']
 
 console.log(`
    productName -
-       ${productName}
+       ${productInfo[0]}
      productPrice- 
-        ${productPrice}
+        ${productInfo[1]}
     quantity 
-     ${productQuantity}
+     ${productInfo[2]}
     isAvailable  
-     ${productIsAvailable} 
+     ${productInfo[3]} 
      `);
