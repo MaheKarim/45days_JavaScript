@@ -5,15 +5,24 @@
 // const productQuantity = 3;
 // const productIsAvailable = 'true';
 
-const productInfo = ['Potato', '30', '3', 'true']
+// const productInfo = ['Potato', '30', '3', 'true']
 
+ const productInfoObj = {
+   productName: 'Potato',
+   productPrice: 30 ,
+   productQuantity: 3 ,
+   productIsAvailable: true
+ }
+// Accessing Obj Property 
+   console.log(productInfoObj['productName']);
+   console.log(productInfoObj.productPrice)
 console.log(`
    productName -
-       ${productInfo[0]}
+       ${productInfoObj.productName}
      productPrice- 
-        ${productInfo[1]}
+        ${productInfoObj.productPrice}
     quantity 
-     ${productInfo[2]}
+     ${productInfoObj.productQuantity}
     isAvailable  
-     ${productInfo[3]} 
+     ${productInfoObj.productIsAvailable} 
      `);
