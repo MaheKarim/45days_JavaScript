@@ -7,9 +7,11 @@ const productInfoObj = {
     productIsAvailable: true
 }
 
-function showProductInfo()
+function showProductInfo(productObj)
 {
+ console.log(productObj)
  console.log(`
- Product Name- ${productInfoObj.productName} Product Price- ${productInfoObj.productPrice} Product Quantity- ${productInfoObj.productQuantity} Product Availability- ${productInfoObj.productIsAvailable}
-`);
+ Product Name- ${productInfoObj.productName} Product Price- ${productInfoObj.productPrice} Product Quantity- ${productInfoObj.productQuantity} Product Availability- ${productInfoObj.productIsAvailable}`);
 }
+
+showProductInfo(productInfoObj)
