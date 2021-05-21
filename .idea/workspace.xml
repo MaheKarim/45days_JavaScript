@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88153144-238a-4163-a506-6f56c60bd077" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1005.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1006.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1008.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calcAge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syn_error-edabit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <updated>1620851232215</updated>
       <workItem from="1620851237594" duration="4698000" />
       <workItem from="1621590405205" duration="1415000" />
-      <workItem from="1621591896507" duration="4092000" />
+      <workItem from="1621591896507" duration="7326000" />
     </task>
     <servers />
   </component>
