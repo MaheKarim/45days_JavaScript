@@ -1,5 +1,13 @@
-function employeeCalc(employeNumber, totalHour, hourlyBill) {
-    return  totalHour * hourlyBill;
+
+const employeeObj = {
+    employeNumber: 25,
+    totalHour: 100,
+    perHourSalaray: 5.50
 }
- console.log(employeeCalc(25,100, 5.50))
- console.log(`Number Of Employe:`);
+ function totalCalculation(employeeObj) {
+     var myAnswer = employeeObj.totalHour * employeeObj.perHourSalaray;
+     console.log(`NUMBER = ${employeeObj.employeNumber}`)
+     console.log(`SALARY = U$ ${myAnswer.toFixed(2)}`);
+ }
+ const functionResult = totalCalculation(employeeObj);
+

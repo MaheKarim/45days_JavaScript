@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88153144-238a-4163-a506-6f56c60bd077" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1008.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcAge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syn_error-edabit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1008.js" beforeDir="false" afterPath="$PROJECT_DIR$/1008.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -61,6 +57,7 @@
       <workItem from="1620851237594" duration="4698000" />
       <workItem from="1621590405205" duration="1415000" />
       <workItem from="1621591896507" duration="7326000" />
+      <workItem from="1621604627986" duration="2551000" />
     </task>
     <servers />
   </component>
