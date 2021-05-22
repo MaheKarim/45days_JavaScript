@@ -9,3 +9,12 @@ for (var i = 0; i < arr.length; i++){ // Read Every Element From arr[]
 }
 console.log(anotherArr) // Finally Publish Result
 
+/*
+ Now Solving it with Map()
+ */
+    // Calling Array From var arr[]
+    function getSquarevalue(elem) {
+        return elem * elem ;
+    }
+    var newArray = arr.map(getSquarevalue);
+    console.log(newArray)
