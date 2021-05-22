@@ -1,7 +1,9 @@
- var numbers = [11, 2 ,5 , 1, 89];
+  // let numbers = [19, 5, 42, 2, 77]
 function sumTwoSmallestNumbers(numbers) {
-   // let a=numbers
-    var check = numbers.sort((a,b)=>a-b) // Have TO Know Sort Func
-    return check[0]+check[1];
+      // Code Start Here
+   let a = numbers.sort((a,b)=>a-b)
 
-} console.log(sumTwoSmallestNumbers(numbers))
+    return a[0] + a[1];
+    // 2 + 5 = 7
+  } let finalOutput = sumTwoSmallestNumbers(numbers);
+  console.log(finalOutput);
